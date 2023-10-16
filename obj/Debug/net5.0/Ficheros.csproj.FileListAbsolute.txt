@@ -1,0 +1,16 @@
+C:\Users\sonia\source\repos\Ficheros\bin\Debug\net5.0\Ficheros.exe
+C:\Users\sonia\source\repos\Ficheros\bin\Debug\net5.0\Ficheros.deps.json
+C:\Users\sonia\source\repos\Ficheros\bin\Debug\net5.0\Ficheros.runtimeconfig.json
+C:\Users\sonia\source\repos\Ficheros\bin\Debug\net5.0\Ficheros.runtimeconfig.dev.json
+C:\Users\sonia\source\repos\Ficheros\bin\Debug\net5.0\Ficheros.dll
+C:\Users\sonia\source\repos\Ficheros\bin\Debug\net5.0\ref\Ficheros.dll
+C:\Users\sonia\source\repos\Ficheros\bin\Debug\net5.0\Ficheros.pdb
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\Ficheros.csproj.AssemblyReference.cache
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\Ficheros.AssemblyInfoInputs.cache
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\Ficheros.AssemblyInfo.cs
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\Ficheros.dll
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\ref\Ficheros.dll
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\Ficheros.pdb
+C:\Users\sonia\source\repos\Ficheros\obj\Debug\net5.0\Ficheros.genruntimeconfig.cache
